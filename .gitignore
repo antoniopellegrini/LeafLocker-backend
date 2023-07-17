@@ -1,0 +1,12 @@
+venv/
+.vscode/
+__pycache__/
+models/__pycache__/
+resources/__pycache__/
+models/__pycache__/operatore.cpython-39.pyc
+resources/__pycache__/operatore.cpython-39.pyc
+__pycache__
+migrations/
+.env
+/pythonserver.log
+/.env
